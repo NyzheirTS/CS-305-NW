@@ -4,6 +4,7 @@
 
   Artemis Financial is a consulting company that develops individualized financial plans for customers, including savings, retirement, investments, and insurance. Due to the nature of their dealings Artemis Financial deals with sensitive customer information such as SSN, Bank Accounts, Retirement Accounts, and Investment Accounts.  It is of utmost importance that Artemis Financial maintain client trust by avoiding security breaches and enforcing the highest level of scrutiny when it comes to customer protection and security. Artemis Financials has also expressed the desire to modernize their operations, a step towards achieving this included incorporating new technology such as WebSocket’s and Serverless computing.
 
+---
 
 2.What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
 
